@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cypress:reporters": "cypress run"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^8.7.0",
+    "cypress-mochawesome-reporter": "^2.3.0",
     "cypress-xpath": "^1.6.2"
   },
   "dependencies": {}
