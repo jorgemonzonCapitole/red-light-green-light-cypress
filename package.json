@@ -1,0 +1,16 @@
+{
+  "name": "red-light-green-light-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "cypress-xpath": "^1.6.2"
+  },
+  "dependencies": {}
+}
